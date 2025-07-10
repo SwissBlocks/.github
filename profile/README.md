@@ -27,6 +27,7 @@
 ### About
 SwissBlocks has been founded to architect the open, standardized, and secure foundation for the future of finance, providing the core infrastructure for financial institutions to operate in the tokenized economy. 
 
+### Development
 In development is the Open Token Standard. This standard will provide a universal framework for tokenizing real-world and digital assets, ensuring interoperability, security, and regulatory compliance across the entire ecosystem.
 
 <div/>
